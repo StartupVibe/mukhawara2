@@ -78,7 +78,7 @@
 body {
   font-family: "Momo Trust Display", sans-serif;
   background-color: var(--third-color);
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 a {
@@ -743,4 +743,5 @@ h1 {
       }
     }
   }
+
 }
